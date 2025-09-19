@@ -9,5 +9,9 @@ pypdf
 bs4
 arxiv
 pymupdf
+langchain_google_vertexai
+langchain_google_genai
+langchain_huggingface
+sentence-transformers
 
 
