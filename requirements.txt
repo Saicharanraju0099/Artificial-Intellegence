@@ -13,5 +13,6 @@ langchain_google_vertexai
 langchain_google_genai
 langchain_huggingface
 sentence-transformers
+faiss-cpu
 
 
