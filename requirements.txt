@@ -14,5 +14,8 @@ langchain_google_genai
 langchain_huggingface
 sentence-transformers
 faiss-cpu
+pinecone
+langchain-pinecone
+
 
 
