@@ -16,6 +16,8 @@ sentence-transformers
 faiss-cpu
 pinecone
 langchain-pinecone
+wikipedia
+youtube_search
 
 
 
