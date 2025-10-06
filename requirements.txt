@@ -18,7 +18,8 @@ pinecone
 langchain-pinecone
 wikipedia
 youtube_search
-
+google.generativeai
+google.colab
 
 
 
