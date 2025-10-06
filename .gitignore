@@ -183,3 +183,21 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python,opencv
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Other common files to ignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.DS_Store
