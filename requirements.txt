@@ -20,6 +20,5 @@ wikipedia
 youtube_search
 google.generativeai
 google.colab
-
-
-
+yfinance
+duckduckgo_search
